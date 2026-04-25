@@ -1,0 +1,259 @@
+{
+  "export_version": 3,
+  "packages": [
+    {
+      "Id": "7zip.7zip",
+      "Name": "7-Zip",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Notepad++.Notepad++",
+      "Name": "Notepad++",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Microsoft.VisualStudioCode",
+      "Name": "Microsoft Visual Studio Code",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Microsoft.WindowsTerminal",
+      "Name": "Windows Terminal",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Microsoft.PowerShell",
+      "Name": "PowerShell",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Git.Git",
+      "Name": "Git",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Microsoft.Sysinternals.Suite",
+      "Name": "Sysinternals Suite",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Microsoft.PowerToys",
+      "Name": "Microsoft PowerToys",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "voidtools.Everything",
+      "Name": "Everything",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "WinDirStat.WinDirStat",
+      "Name": "WinDirStat",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "CrystalDewWorld.CrystalDiskInfo",
+      "Name": "CrystalDiskInfo",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "CrystalDewWorld.CrystalDiskMark",
+      "Name": "CrystalDiskMark",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Fastfetch-cli.Fastfetch",
+      "Name": "fastfetch",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "PuTTY.PuTTY",
+      "Name": "PuTTY",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "WinSCP.WinSCP",
+      "Name": "WinSCP",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "FileZilla.FileZilla",
+      "Name": "FileZilla",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "mRemoteNG.mRemoteNG",
+      "Name": "mRemoteNG",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "WiresharkFoundation.Wireshark",
+      "Name": "Wireshark",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Nmap.Nmap",
+      "Name": "Nmap",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Rufus.Rufus",
+      "Name": "Rufus",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Ventoy.Ventoy",
+      "Name": "Ventoy",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "ShareX.ShareX",
+      "Name": "ShareX",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Greenshot.Greenshot",
+      "Name": "Greenshot",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "SumatraPDF.SumatraPDF",
+      "Name": "SumatraPDF",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "KeePassXCTeam.KeePassXC",
+      "Name": "KeePassXC",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Microsoft.AzureCLI",
+      "Name": "Microsoft Azure CLI",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Microsoft.Azure.StorageExplorer",
+      "Name": "Microsoft Azure Storage Explorer",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Microsoft.SQLServerManagementStudio.22",
+      "Name": "SQL Server Management Studio 22",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    }
+  ],
+  "incompatible_packages_info": "Incompatible packages cannot be installed from UniGetUI, either because they came from a local source (for example Local PC) or because the package manager was unavailable. Nevertheless, they have been listed here for logging purposes.",
+  "incompatible_packages": []
+}

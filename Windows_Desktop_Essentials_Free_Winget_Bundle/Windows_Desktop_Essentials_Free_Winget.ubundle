@@ -1,0 +1,286 @@
+{
+  "export_version": 3,
+  "packages": [
+    {
+      "Id": "Mozilla.Firefox.de",
+      "Name": "Mozilla Firefox (de)",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Google.Chrome",
+      "Name": "Google Chrome",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Brave.Brave",
+      "Name": "Brave Browser",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Vivaldi.Vivaldi",
+      "Name": "Vivaldi Browser",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "LibreWolf.LibreWolf",
+      "Name": "LibreWolf",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Mozilla.Thunderbird.de",
+      "Name": "Mozilla Thunderbird (de)",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "7zip.7zip",
+      "Name": "7-Zip",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Giorgiotani.Peazip",
+      "Name": "PeaZip",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "M2Team.NanaZip",
+      "Name": "NanaZip",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "VideoLAN.VLC",
+      "Name": "VLC media player",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "clsid2.mpc-hc",
+      "Name": "MPC-HC",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "MPC-BE.MPC-BE",
+      "Name": "MPC-BE",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "CodecGuide.K-LiteCodecPack.Mega",
+      "Name": "K-Lite Mega Codec Pack",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "MediaArea.MediaInfo.GUI",
+      "Name": "MediaInfo GUI",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Xanashi.Icaros",
+      "Name": "Icaros",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "HandBrake.HandBrake",
+      "Name": "HandBrake",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "TheDocumentFoundation.LibreOffice",
+      "Name": "LibreOffice",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "ONLYOFFICE.DesktopEditors",
+      "Name": "ONLYOFFICE Desktop Editors",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "SumatraPDF.SumatraPDF",
+      "Name": "SumatraPDF",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "geeksoftwareGmbH.PDF24Creator",
+      "Name": "PDF24 Creator",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Notepad++.Notepad++",
+      "Name": "Notepad++",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Microsoft.PowerToys",
+      "Name": "Microsoft PowerToys",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "voidtools.Everything",
+      "Name": "Everything",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "ShareX.ShareX",
+      "Name": "ShareX",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Greenshot.Greenshot",
+      "Name": "Greenshot",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "KeePassXCTeam.KeePassXC",
+      "Name": "KeePassXC",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "FilesCommunity.Files",
+      "Name": "Files",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "SoftwareOK.Q-Dir",
+      "Name": "Q-Dir",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "alexx2000.DoubleCommander",
+      "Name": "Double Commander",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "derceg.Explorer++",
+      "Name": "Explorer++",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "MarekJasinski.FreeCommanderXE",
+      "Name": "FreeCommander XE",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    }
+  ],
+  "incompatible_packages_info": "Incompatible packages cannot be installed from UniGetUI, either because they came from a local source (for example Local PC) or because the package manager was unavailable. Nevertheless, they have been listed here for logging purposes.",
+  "incompatible_packages": []
+}

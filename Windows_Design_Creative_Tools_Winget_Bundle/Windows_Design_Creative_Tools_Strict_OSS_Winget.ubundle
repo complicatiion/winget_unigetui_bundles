@@ -1,0 +1,293 @@
+{
+  "export_version": 3,
+  "packages": [
+    {
+      "Id": "BlenderFoundation.Blender",
+      "Name": "Blender",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "KDE.Krita",
+      "Name": "Krita",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "KDE.Kdenlive",
+      "Name": "Kdenlive",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Inkscape.Inkscape",
+      "Name": "Inkscape",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "GIMP.GIMP.3",
+      "Name": "GIMP 3",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Pinta.Pinta",
+      "Name": "Pinta",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "MyPaint.MyPaint",
+      "Name": "MyPaint",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Drawpile.Drawpile",
+      "Name": "Drawpile",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Pencil2D.Pencil",
+      "Name": "Pencil2D",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Synfig.SynfigStudio",
+      "Name": "Synfig Studio",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Scribus.Scribus",
+      "Name": "Scribus",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "FontForge.FontForge",
+      "Name": "FontForge",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "ImageMagick.ImageMagick",
+      "Name": "ImageMagick",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "ShareX.ShareX",
+      "Name": "ShareX",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "darktable.darktable",
+      "Name": "darktable",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "RawTherapee.RawTherapee",
+      "Name": "RawTherapee",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "KDE.digiKam",
+      "Name": "digiKam",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "OpenShot.OpenShot",
+      "Name": "OpenShot Video Editor",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Meltytech.Shotcut",
+      "Name": "Shotcut",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "PaulPacifico.ShutterEncoder",
+      "Name": "Shutter Encoder",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "HandBrake.HandBrake",
+      "Name": "HandBrake",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Gyan.FFmpeg",
+      "Name": "FFmpeg",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "VideoLAN.VLC",
+      "Name": "VLC media player",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "OBSProject.OBSStudio",
+      "Name": "OBS Studio",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Audacity.Audacity",
+      "Name": "Audacity",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "LMMS.LMMS",
+      "Name": "LMMS",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Musescore.Musescore",
+      "Name": "MuseScore",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "FreeCAD.FreeCAD",
+      "Name": "FreeCAD",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "LibreCAD.LibreCAD",
+      "Name": "LibreCAD",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "CNRISTI.MeshLab",
+      "Name": "MeshLab",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "OpenSCAD.OpenSCAD",
+      "Name": "OpenSCAD",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "GodotEngine.GodotEngine",
+      "Name": "Godot Engine",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "export_version": 2,
+  "packages": [
+    {
+      "Id": "XnSoft.XnViewMP",
+      "Name": "XnView MP",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "IrfanSkiljan.IrfanView",
+      "Name": "IrfanView",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "IrfanSkiljan.IrfanView.PlugIns",
+      "Name": "IrfanView PlugIns",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "FreeTube.FreeTube",
+      "Name": "FreeTube",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "MilosParipovic.OneCommander",
+      "Name": "OneCommander",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "LimeTechnology.UnraidUSBCreator",
+      "Name": "Unraid USB Creator",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "QNAP.QfinderPro",
+      "Name": "QNAP Qfinder Pro",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "QNAP.ExternalRAIDManager",
+      "Name": "QNAP External RAID Manager",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "ALCPU.CoreTemp",
+      "Name": "Core Temp",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "RARLab.WinRAR",
+      "Name": "WinRAR",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "CologneCodeCompany.XYplorer",
+      "Name": "XYplorer",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    }
+  ],
+  "incompatible_packages_info": "Optional add-on packages. Includes personal/freeware/commercial-license caveat tools and shareware. Verify licenses before corporate rollout.",
+  "incompatible_packages": []
+}

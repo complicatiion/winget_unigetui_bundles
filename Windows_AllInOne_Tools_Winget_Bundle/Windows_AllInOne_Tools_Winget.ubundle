@@ -1,0 +1,1015 @@
+{
+  "export_version": 2,
+  "packages": [
+    {
+      "Id": "Mozilla.Firefox.de",
+      "Name": "Mozilla Firefox (de)",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Google.Chrome",
+      "Name": "Google Chrome",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Brave.Brave",
+      "Name": "Brave Browser",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Vivaldi.Vivaldi",
+      "Name": "Vivaldi Browser",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "LibreWolf.LibreWolf",
+      "Name": "LibreWolf",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Mozilla.Thunderbird.de",
+      "Name": "Mozilla Thunderbird (de)",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "7zip.7zip",
+      "Name": "7-Zip",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Giorgiotani.Peazip",
+      "Name": "PeaZip",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "M2Team.NanaZip",
+      "Name": "NanaZip",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "VideoLAN.VLC",
+      "Name": "VLC media player",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "clsid2.mpc-hc",
+      "Name": "MPC-HC",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "MPC-BE.MPC-BE",
+      "Name": "MPC-BE",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "CodecGuide.K-LiteCodecPack.Mega",
+      "Name": "K-Lite Mega Codec Pack",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "MediaArea.MediaInfo.GUI",
+      "Name": "MediaInfo GUI",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Xanashi.Icaros",
+      "Name": "Icaros",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "HandBrake.HandBrake",
+      "Name": "HandBrake",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "TheDocumentFoundation.LibreOffice",
+      "Name": "LibreOffice",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "ONLYOFFICE.DesktopEditors",
+      "Name": "ONLYOFFICE Desktop Editors",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "SumatraPDF.SumatraPDF",
+      "Name": "SumatraPDF",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "geeksoftwareGmbH.PDF24Creator",
+      "Name": "PDF24 Creator",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Notepad++.Notepad++",
+      "Name": "Notepad++",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Microsoft.PowerToys",
+      "Name": "Microsoft PowerToys",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "voidtools.Everything",
+      "Name": "Everything",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "ShareX.ShareX",
+      "Name": "ShareX",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Greenshot.Greenshot",
+      "Name": "Greenshot",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "KeePassXCTeam.KeePassXC",
+      "Name": "KeePassXC",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "FilesCommunity.Files",
+      "Name": "Files",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "SoftwareOK.Q-Dir",
+      "Name": "Q-Dir",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "alexx2000.DoubleCommander",
+      "Name": "Double Commander",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "derceg.Explorer++",
+      "Name": "Explorer++",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "MarekJasinski.FreeCommanderXE",
+      "Name": "FreeCommander XE",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "DuongDieuPhap.ImageGlass",
+      "Name": "ImageGlass",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "XnSoft.XnConvert",
+      "Name": "XnConvert",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "CherubicSoftware.SageThumbs",
+      "Name": "SageThumbs",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "PeterPawlowski.foobar2000",
+      "Name": "foobar2000",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "FlorianHeidenreich.Mp3tag",
+      "Name": "Mp3tag",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "flux.flux",
+      "Name": "f.lux",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "den4b.ReNamer",
+      "Name": "ReNamer",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Microsoft.WindowsTerminal",
+      "Name": "Windows Terminal",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Microsoft.PowerShell",
+      "Name": "PowerShell 7",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Git.Git",
+      "Name": "Git",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Microsoft.VisualStudioCode",
+      "Name": "Microsoft Visual Studio Code",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Microsoft.Sysinternals.Suite",
+      "Name": "Sysinternals Suite",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "WinDirStat.WinDirStat",
+      "Name": "WinDirStat",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "CrystalDewWorld.CrystalDiskInfo",
+      "Name": "CrystalDiskInfo",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "CrystalDewWorld.CrystalDiskMark",
+      "Name": "CrystalDiskMark",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Fastfetch-cli.Fastfetch",
+      "Name": "fastfetch",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "PuTTY.PuTTY",
+      "Name": "PuTTY",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "WinSCP.WinSCP",
+      "Name": "WinSCP",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "FileZilla.FileZilla",
+      "Name": "FileZilla",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "mRemoteNG.mRemoteNG",
+      "Name": "mRemoteNG",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "WiresharkFoundation.Wireshark",
+      "Name": "Wireshark",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Nmap.Nmap",
+      "Name": "Nmap",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Famatech.AdvancedIPScanner",
+      "Name": "Advanced IP Scanner",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "RealVNC.VNCViewer",
+      "Name": "RealVNC Viewer",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Rufus.Rufus",
+      "Name": "Rufus",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Ventoy.Ventoy",
+      "Name": "Ventoy",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Balena.Etcher",
+      "Name": "balenaEtcher",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Win32diskimager.win32diskimager",
+      "Name": "Win32DiskImager",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "RaspberryPiFoundation.RaspberryPiImager",
+      "Name": "Raspberry Pi Imager",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "SDAssociation.SDMemoryCardFormatter",
+      "Name": "SD Card Formatter",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "IDRIX.VeraCrypt",
+      "Name": "VeraCrypt",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Sandboxie.Plus",
+      "Name": "Sandboxie-Plus",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "DiskInternals.LinuxReader",
+      "Name": "DiskInternals Linux Reader",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "HDDGURU.HDDRawCopyTool",
+      "Name": "HDD Raw Copy Tool",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Piriform.Recuva",
+      "Name": "Recuva",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Microsoft.AzureCLI",
+      "Name": "Microsoft Azure CLI",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Microsoft.Azure.StorageExplorer",
+      "Name": "Microsoft Azure Storage Explorer",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Microsoft.SQLServerManagementStudio.22",
+      "Name": "SQL Server Management Studio 22",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "HeidiSQL.HeidiSQL",
+      "Name": "HeidiSQL",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Iterate.Cyberduck",
+      "Name": "Cyberduck",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Oracle.VirtualBox",
+      "Name": "Oracle VirtualBox",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Microsoft.DotNet.DesktopRuntime.8",
+      "Name": "Microsoft .NET Desktop Runtime 8",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Microsoft.DotNet.DesktopRuntime.9",
+      "Name": "Microsoft .NET Desktop Runtime 9",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Microsoft.VCRedist.2015+.x64",
+      "Name": "Microsoft Visual C++ Redistributable 2015+ x64",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Microsoft.VCRedist.2015+.x86",
+      "Name": "Microsoft Visual C++ Redistributable 2015+ x86",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Microsoft.WindowsAppRuntime.1.8",
+      "Name": "Windows App Runtime 1.8",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "BlenderFoundation.Blender",
+      "Name": "Blender",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "KDE.Krita",
+      "Name": "Krita",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "KDE.Kdenlive",
+      "Name": "Kdenlive",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Inkscape.Inkscape",
+      "Name": "Inkscape",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "GIMP.GIMP.3",
+      "Name": "GIMP 3",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Pinta.Pinta",
+      "Name": "Pinta",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "MyPaint.MyPaint",
+      "Name": "MyPaint",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Drawpile.Drawpile",
+      "Name": "Drawpile",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Pencil2D.Pencil",
+      "Name": "Pencil2D",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Synfig.SynfigStudio",
+      "Name": "Synfig Studio",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Scribus.Scribus",
+      "Name": "Scribus",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "FontForge.FontForge",
+      "Name": "FontForge",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "ImageMagick.ImageMagick",
+      "Name": "ImageMagick",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "darktable.darktable",
+      "Name": "darktable",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "RawTherapee.RawTherapee",
+      "Name": "RawTherapee",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "KDE.digiKam",
+      "Name": "digiKam",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "OpenShot.OpenShot",
+      "Name": "OpenShot Video Editor",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Meltytech.Shotcut",
+      "Name": "Shotcut",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "PaulPacifico.ShutterEncoder",
+      "Name": "Shutter Encoder",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Gyan.FFmpeg",
+      "Name": "FFmpeg",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "OBSProject.OBSStudio",
+      "Name": "OBS Studio",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Audacity.Audacity",
+      "Name": "Audacity",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "LMMS.LMMS",
+      "Name": "LMMS",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Musescore.Musescore",
+      "Name": "MuseScore",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "FreeCAD.FreeCAD",
+      "Name": "FreeCAD",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "LibreCAD.LibreCAD",
+      "Name": "LibreCAD",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "CNRISTI.MeshLab",
+      "Name": "MeshLab",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "OpenSCAD.OpenSCAD",
+      "Name": "OpenSCAD",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "GodotEngine.GodotEngine",
+      "Name": "Godot Engine",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "3Dflow.3DFZephyr.Free",
+      "Name": "3DF Zephyr Free",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Bambulab.Bambustudio",
+      "Name": "Bambu Studio",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Prusa3D.PrusaSlicer",
+      "Name": "PrusaSlicer",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Ultimaker.Cura",
+      "Name": "Ultimaker Cura",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "PTRTECH.UVtools",
+      "Name": "UVtools",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    },
+    {
+      "Id": "Upscayl.Upscayl",
+      "Name": "Upscayl",
+      "Version": "",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {},
+      "Updates": {}
+    }
+  ],
+  "incompatible_packages_info": "Clean all-in-one bundle generated from uploaded bundle plus curated admin/design/desktop bundles. Non-WinGet/unknown/unmanaged sources intentionally removed.",
+  "incompatible_packages": []
+}
